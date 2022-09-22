@@ -21,3 +21,5 @@
 * numpy 
 * seaborn 
 * matplotlib.pyplot
+
+## Avaliação entre base de treinamento e teste
