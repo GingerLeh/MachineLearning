@@ -21,6 +21,7 @@ matriz de confusão gerada:
 ### 1: Base Censo: 
 
 matriz de confusão gerada:
+
 ![image](https://user-images.githubusercontent.com/97564327/208271644-a5bb2145-c2e1-40a7-86c9-d1f381244d37.png)
 
 Demonstrando melhora entre o primeiro modelo, o de árvores de decisão. 
