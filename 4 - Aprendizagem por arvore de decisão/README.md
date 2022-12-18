@@ -28,6 +28,7 @@ Demonstrando melhora entre o primeiro modelo, o de árvores de decisão.
 ### 2: Base de Crédito: 
 
 matriz de confusão gerada: 
+
 ![image](https://user-images.githubusercontent.com/97564327/208271656-0c697b15-5fec-4528-8425-fee66fad43c0.png)
 
 Também demonstrou melhora de performance comparando com o modelo de árvores de decisão. 
