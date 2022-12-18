@@ -33,5 +33,5 @@ matriz de confusão gerada:
 Também demonstrou melhora de performance comparando com o modelo de árvores de decisão. 
 
 
-
+## O pré processamento dos dados se encontra no link: https://github.com/GingerLeh/MachineLearning/tree/main/2%20-%20Pré-processamento%20dos%20dados
 Feito por Alessa de Morais. 
